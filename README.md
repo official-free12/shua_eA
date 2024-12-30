@@ -1,0 +1,6 @@
+# 刷脸支付定制|刷脸支付源码部署|微信刷脸支付源码|支付宝刷脸支付源码|刷脸支付OEM
+
+公司百人团队自研刷脸支付系统<br>支持各种通道：<br>直连：支付宝，微信<br>间连：星驿付，汇付，易宝，随行付，快钱，拉卡拉 等（第三方支付公司）<br>2、可开通小微商户，当面付，银联快捷等功能<br>3、刷脸支付<br>4、聚合支付<br>5、支持硬件：扫码枪、云喇叭、扫印机、刷脸设备【蜻蜓、青蛙】<br>二、展示端：<br>1、PC端收银助手<br>2、商家手机端收银助手小程序<br>3、支付宝IOT独立收银<br>4、微信APK独立收银<br>5、总平台PC端【贴牌 、代理一级、二级、广告等】<br>6、OEM端【审件、分配分润，调整费率，查看流水等】<br>7、代理端【进件、查看分润、交易流水、广告等】<br>8、商家端【查看分润、管理员工、门店管理等】<br>9、员工端【查看店铺流水】<br>       刷脸支付系统的7大优势：<br>example.com，对接微信支付宝<br>example.com、招代理商<br>example.com，享受设备补贴、流水分润<br>example.com，独立服务器源码部署，上架苹果商店<br>example.com、间连多种选择，一切以实际落地为主要原则<br>example.com、广告接口、 流水分润细致化<br>example.com、微信APK独立收银<br>购买我后可享受我公司免费升级，搭建系统<br>8、我公司提供介绍PPT和招商政策模板【修改好自己的LOGO和公司名字即可投入运营】<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/S7nPp" style="color: red;">https://mega-file.org/S7nPp</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
